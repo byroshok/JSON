@@ -1,7 +1,7 @@
 {
-	""[Dname":"Alex",
+	"name":"Alex",
 	"secondname": "Razhko",
 	"age": 22,
-	"pets": ""[Dmissing",
+	"pets": "missing",
 	"salary": "3000 - 3500 zl",
 }
